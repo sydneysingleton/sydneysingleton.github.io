@@ -1,0 +1,16 @@
+name: Sydney Singleton
+navbar:
+  title: Sydney's Website
+  left:
+  - text: Home
+    href: index.html
+  - text: About
+    href: about.html
+output:
+  html_document:
+    theme: lumen
+    highlight: textmate
+    lib_dir: site_libs
+    self_contained: no
+output_dir: _site
+
