@@ -1,16 +1,17 @@
 name: Sydney Singleton
+output_dir: "."
 navbar:
-  title: Sydney's Website
+  title: "Sydney's Website"
   left:
-  - text: Home
+  - text: "Home"
     href: index.html
-  - text: About
+  - text: "About"
     href: about.html
-output:
+output: 
   html_document:
     theme: lumen
     highlight: textmate
     lib_dir: site_libs
     self_contained: no
-output_dir: _site
+
 
