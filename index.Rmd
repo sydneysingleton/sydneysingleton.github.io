@@ -7,3 +7,7 @@ x<-c(12,67,48,90)
 y<-c(24,134,96,180)
 plot(x,y)
 ```
+```{r}
+library(knitr)
+include_graphics("mom.JPG")
+```
