@@ -1,0 +1,15 @@
+---
+title: "Projects"
+author: "Sydney"
+date: "2/27/2018"
+output: html_document
+---
+
+
+
+
+```{r cars}
+print("These are some projects I have done")
+```
+
+

@@ -7,6 +7,8 @@ navbar:
     href: index.html
   - text: "About"
     href: About.html
+  - text: "My Projects"
+    href: Projects.html
 output: 
   html_document:
     theme: lumen
