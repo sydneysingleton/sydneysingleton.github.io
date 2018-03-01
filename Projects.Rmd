@@ -4,12 +4,12 @@ author: "Sydney"
 date: "2/27/2018"
 output: html_document
 ---
-
+I will be putting in some details about the research i have done here at App and at the REU I particpated in last summer, just havent gotten around to it yet :)
 
 
 
 ```{r cars}
-print("These are some projects I have done")
+
 ```
 
 
